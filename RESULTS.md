@@ -13,3 +13,6 @@ Testing isEven(4) returned true and isEven(5) returned false, which matched my p
 
 ## isOdd(n)
 Testing isOdd(3) returned true and isOdd(4) returned false, which matched my prediction.
+
+## multiply(a, b)
+Testing multiply(3, 4) returned 12, which matched my prediction.
