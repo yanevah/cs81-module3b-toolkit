@@ -3,12 +3,15 @@
 I predict that calling double(5) will return 10.
 I expect negative numbers to be doubled as well.
 
-## double(n)
-
-double(5) returned 10.
-The function behaved exactly as predicted.
-
 ## square(n)
 
 I predict square(4) will return 16.
 I expect negative numbers to return a positive result.
+
+## isEven(n)
+I predict that this function will return true if a number is even and false if it is odd.
+For example, isEven(4) should return true and isEven(5) should return false.
+
+## isOdd(n)
+I predict that this function will return true if a number is odd and false if it is even.
+For example, isOdd(3) should return true and isOdd(4) should return false.
