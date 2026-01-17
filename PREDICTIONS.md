@@ -19,3 +19,7 @@ For example, isOdd(3) should return true and isOdd(4) should return false.
 ## multiply(a, b)
 I predict that this function will return the product of two numbers.
 For example, multiply(3, 4) should return 12.
+
+## add(a, b)
+I predict that this function will return the sum of two numbers.
+For example, add(5, 7) should return 12.
