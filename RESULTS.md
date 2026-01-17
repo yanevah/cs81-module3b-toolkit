@@ -16,3 +16,6 @@ Testing isOdd(3) returned true and isOdd(4) returned false, which matched my pre
 
 ## multiply(a, b)
 Testing multiply(3, 4) returned 12, which matched my prediction.
+
+## add(a, b)
+Testing add(5, 7) returned 12, which matched my prediction.
